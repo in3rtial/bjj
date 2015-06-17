@@ -1,11 +1,15 @@
 # Kimura from kesa gatame
+source: Rolled Up Episode 35 - Fear the Reaper with Stephen Koepfer
 
+https://www.youtube.com/watch?v=Jf0mVCDra5I at around 39 minutes
 
 ### Step 1: lift head
 
 ![](figs/kimura_kesa_gatame/1.jpg)
 
-- head of uke lifted from ground
+- head AND shoulder of uke lifted from ground
+- hips just a bit off the ground
+    - keeps center of gravity low, but puts weight on uke
 - legs positioned to avoid reversal
 - grab leg if nogi, otherwise choose appropriate gi grip (not sure which one)
 
@@ -20,6 +24,7 @@
 
 ![](figs/kimura_kesa_gatame/3.jpg)
 - time with breathing, when uke exhales, slide downward
+    - if uke is flat (not on his side), can tap him that way
 
 
 ### Step 3: close the kimura

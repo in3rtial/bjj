@@ -1,4 +1,4 @@
-![figs/bjj.jpg]
+![](figs/bjj.jpg)
 
 # bjj notes
 
